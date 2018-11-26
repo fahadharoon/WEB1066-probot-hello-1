@@ -14,6 +14,9 @@ npm start
 
 There are some useful hacking commands [here](/docs/HACKING.md).
 
+## Test
+TBD
+
 ## Contributing
 
 If you have suggestions for how probot-hello could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
