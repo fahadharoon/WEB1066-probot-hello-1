@@ -6,7 +6,7 @@ const issuesOpenedPayload = require('./fixtures/issues.opened.json')
 
 test('that we can run tests', () => {
   // your real tests go here
-  expect(1 + 2 + 3).toBe(6)
+  expect(1 + 2 + 3).toBe(7)
 })
 
 describe('My Probot app', () => {
